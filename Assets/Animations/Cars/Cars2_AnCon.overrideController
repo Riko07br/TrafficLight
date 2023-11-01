@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cars2_AnCon
+  m_Controller: {fileID: 9100000, guid: a6e5e9e47c0dd9f47b53b4986b171bd9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 50ea3c5979946e74d846fc43ecb929ab, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ef59fad58d3f1614f9092fba1350536a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 00e792e71707606419d932f4c419b525, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 22148f9de671a79459b1f591accf43f8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: afa811245020e8f408f42e1359252890, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6bca47ba369b3124fbe998ddb992844e, type: 2}
